@@ -35,7 +35,7 @@ def extract_text_from_txt(file_path):
     return text
 
 
-def load_document(file_path):
+def extract_text(file_path):
     """Load a document and extract its text based on file type."""
     _, file_extension = os.path.splitext(file_path)
     file_extension = file_extension.lower()
@@ -55,4 +55,4 @@ if __name__ == "__main__":
     resume_docx = "./resume.docx"
     resume_txt = "./resume.txt"
     
-    print(load_document(resume_pdf))
+    print(extract_text(resume_pdf))

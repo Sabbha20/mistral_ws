@@ -9,3 +9,7 @@ ollama
 streamlit
 requests
 sentence-transformers
+transformers
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
