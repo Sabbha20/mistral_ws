@@ -1,0 +1,57 @@
+Sabbha Mondal
++919007857713 | mondalsabbha@gmail.com | KOLKATA, India 700156
+linkedin.com/in/sabbhamondal/ | github.com/Sabbha20
+SUMMARY
+Over 10 years of software development experience, with nearly 5 years specializing in Python for backend and automation projects. Demonstrated leadership in team settings, delivering innovative solutions utilizing AWS services and developing GenAI RAG architecture and microservices. Enhanced data pipeline reliability and performance through effective design and implementation. Aspires to transition into a GenAI architect role, focusing on machine learning models and Agentic AI applications.
+SKILLS
+Python
+Generative AI and LLM
+Retrieval augmented generation
+Agentic AI and Crewai
+AWS services (Bedrock, Lambda, CDK, SQS, etc.)
+Flask and microservices
+Optical character recognition (OCR)
+Computer vision (OpenCV)
+Natural language processing (NLP)
+Selenium automation
+Langchain and Langgraph
+MLflow
+MCP
+MySQL
+Oracle PL-SQL
+API development and RESTful design
+Team leadership and code review
+
+
+EXPERIENCE
+Senior Software Python Developer	10/2024 - Current
+Servion Global Solutions KOLKATA
+Designed and implemented Generative AI and Retrieval-Augmented Generation applications, increasing data retrieval efficiency by 30%.
+Developed and deployed ETL processes within RAG microservices, enhancing data pipeline reliability and scalability. Automated workflows using AWS Lambda and Step Functions, minimizing manual intervention by 98%.
+Leveraged technologies including AWS Bedrock, Boto3, SQS, SNS, Lambda, Step Functions, DynamoDB, RDS, and Python for scalable cloud-native solutions. Managed project lifecycle from requirements gathering to production release, ensuring timely delivery.
+Provided technical support and knowledge sharing to foster collaboration among team members.
+
+Software Python Developer	06/2022 - 04/2024
+Tata Consultancy Services KOLKATA, IN
+Developed Python Robotic Automation Desktop Tool, overseeing entire project lifecycle from initiation to release.
+Conducted thorough planning and research to inform development process.
+Executed coding, testing, and debugging phases in collaboration with cross-functional teams.
+Secured managerial and client approvals prior to tool release.
+Utilized technologies including Python, Selenium Webdriver, OpenPyXL, and others for development.
+Researched complex topics to deliver quick, feasible solutions effectively.
+
+Oracle SOA Developer	04/2015 - 06/2022
+Cognizant Technology Solutions KOLKATA, IN
+Designed SOA and OSB services within Oracle TechStack framework. Conducted integration of SOA and OSB using diverse adapters, including File, FTP, DB, REST API, SOAP services, Queues, and Topics JMS.
+Implemented MFT integrations for efficient data handling. Facilitated code deployment through Bitbucket via SourceTree.
+Crafted Python scripts for automated email notifications regarding logs and password expiration alerts.
+EDUCATION AND TRAINING
+
+Bachelor of Technology: Computer Science And Engineering	06/2014
+West Bengal University of Technology, Kolkata
+
+Council For The Indian School Certificate Examinations: Science	04/2010
+Ramakrishna Mission English School, Jamshedpur
+
+LANGUAGES
+English: Advanced	Hindi: Native
